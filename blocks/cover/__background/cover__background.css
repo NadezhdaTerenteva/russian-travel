@@ -1,0 +1,28 @@
+.cover__background {
+    display: block;
+    max-width: 100%;
+    background-image: url("../../../images/cover-trains.jpg"); 
+    background-size: cover;
+    position: relative;
+    text-decoration: none;
+  }
+  
+  .cover__background::before {
+    content: "";
+    position: absolute;
+    background-color: rgba(42, 44, 47, 0.3);
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+  }
+  
+  .cover__background:hover::before {
+    content: "";
+    position: absolute;
+    background-color: rgba(42, 44, 47, 0.8);
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+  }

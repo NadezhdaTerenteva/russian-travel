@@ -1,0 +1,8 @@
+.lead {
+    max-width: 984px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
