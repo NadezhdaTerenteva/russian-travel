@@ -1,4 +1,4 @@
-# how-to-learn
+# Russian travel
 This is a learning project  - one page website created according the brief from [Яндекс.Практикум](https://www.practicum.yandex.ru).  
 Main technologies used are **HTML5, CSS** including extended features such as 
 * flex layout,
