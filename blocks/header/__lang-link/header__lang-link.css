@@ -3,6 +3,7 @@
     line-height: 28px;
     margin: 0;
     color: #fff;
+    text-decoration: none;
   }
   
   @media screen and (max-width: 520px) {
@@ -14,5 +15,4 @@
   
   .header__lang-link:first-of-type {
     margin-right: 18px;
-    text-decoration: underline;
   }
