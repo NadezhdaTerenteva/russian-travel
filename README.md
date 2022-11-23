@@ -1,6 +1,6 @@
 # Russian travel
 Find online version under the [link](https://nadezhdaterenteva.github.io/russian-travel/)  
-This is a learning project  - one page website created according the brief from [Yandex.practicum](https://www.practicum.yandex.ru).  
+This is a learning project  - one page website created according the brief from [Yandex.Practicum](https://www.practicum.yandex.ru).  
 Main technologies used are **HTML5, CSS** including extended features such as 
 * flex layout,
 * grid layout,
